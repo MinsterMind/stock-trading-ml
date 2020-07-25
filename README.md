@@ -1,4 +1,4 @@
-# Stock Trading with Machine Learning
+#  Stock Trading with Machine Learning
 
 ## Overview
 
